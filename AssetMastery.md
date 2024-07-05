@@ -36,7 +36,11 @@
     In Simple terms Retail Clients are Individual investors needing standard financial products and advice.
 
 **3. Geographical Regions of Focus**
-
+  
+  Financial firms like Ameriprise focus on diverse geographical regions such as North America (U.S. and Canada), 
+  Europe (U.K., Germany, France), Asia-Pacific (China, Japan, Australia), and emerging markets (Latin America, Africa, Southeast Asia). 
+  Each region has unique financial opportunities and regulatory environments. Geographical Regions for common Assetmanagement companies are below.
+  
   - **North America:**
     This region includes the United States and Canada, which are significant for their large and developed financial markets.
 
@@ -55,7 +59,7 @@
     High-growth potential markets in Latin America, Africa, and Southeast Asia.
 
 **4. Types of Investments Handled**
-
+  
   - **Equities:**
   Stocks representing ownership in a company, providing potential for growth and dividends.  
   In Simple terms they are Company stocks that can grow and pay dividends.
@@ -78,11 +82,14 @@
 **5. Primary & Secondary Markets**
 
   - **Primary Market:**
-  The primary market is where new securities are issued and sold for the first time. Participants include issuers (companies or governments) and investors (institutional or retail). Examples include Initial Public Offerings (IPOs) and bond issuances.  
+  The primary market is where new securities are issued and sold for the first time.
+  Participants include issuers (companies or governments) and investors (institutional or retail).
+  Examples include Initial Public Offerings (IPOs) and bond issuances.  
   In Simple terms it is Market for new securities being sold for the first time.
 
   - **Secondary Market:**
-  The secondary market is where existing securities are traded among investors. Participants include investors, brokers, and dealers. Examples include stock exchanges like NYSE, NASDAQ, and bond trading platforms.  
+  The secondary market is where existing securities are traded among investors.
+  Participants include investors, brokers, and dealers. Examples include stock exchanges like NYSE, NASDAQ, and bond trading platforms.  
   In Simple terms it is Market for trading existing securities.
 
 **6. International Markets & Over the Counter (OTC) Trades**
