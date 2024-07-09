@@ -117,29 +117,34 @@
 ### Chapter 2: Financial Instruments/Asset Classes
 
 **8. Common Stock** 
-Common stock represents equity ownership in a company, granting shareholders voting rights and the possibility of receiving dividends from the company's earnings. The value of common stock can appreciate if the company performs well, offering potential for capital gains. However, it comes with higher risks due to stock price volatility and the uncertainty of dividends. In the event of company liquidation, common stockholders are last to receive any remaining assets.
 
-*Simple terms: Common stock is like owning a part of a company. If the company does well, the value of your shares can increase, and you might earn money through dividends. You also get to vote on important company matters.*
+  - Common stock represents equity ownership in a company, granting shareholders voting rights and the possibility of receiving dividends from the company's earnings. The value of common stock can appreciate if the company performs well, offering potential for capital gains. However, it comes with higher risks due to stock price volatility and the uncertainty of dividends. In the event of company liquidation, common stockholders are last to receive any remaining assets.
+
+In Simple terms Common stock is like owning a part of a company. If the company does well, the value of your shares can increase, and you might earn money through dividends. You also get to vote on important company matters.*
 
 **9. Preferred Stocks** 
-Preferred stocks are a type of equity offering a fixed dividend, paid out before dividends to common stockholders. Preferred shareholders usually do not have voting rights but have a higher claim on assets and earnings than common stockholders. These stocks are less volatile and provide more stable income, acting as a hybrid between stocks and bonds.
 
-*Simple terms: Preferred stocks are special stocks where you get paid dividends before common stockholders. You don't usually get to vote on company decisions, but you get a steadier income.*
+  - Preferred stocks are a type of equity offering a fixed dividend, paid out before dividends to common stockholders. Preferred shareholders usually do not have voting rights but have a higher claim on assets and earnings than common stockholders. These stocks are less volatile and provide more stable income, acting as a hybrid between stocks and bonds.
+
+In short note Preferred stocks are special stocks where you get paid dividends before common stockholders. You don't usually get to vote on company decisions, but you get a steadier income.*
 
 **10. Bonds**  
-Bonds are debt securities issued by corporations, municipalities, or governments to raise capital. When you purchase a bond, you lend money to the issuer, who promises regular interest payments and the return of the principal amount at maturity. Bonds are considered safer than stocks because they offer fixed income and the return of principal, but they generally provide lower returns. They are subject to risks such as interest rate risk, credit risk, and inflation risk.
 
-*Simple terms: Bonds are like loans you give to companies or governments. You get paid interest over time, and your money is returned when the bond matures, making them safer than stocks.*
+  - Bonds are debt securities issued by corporations, municipalities, or governments to raise capital. When you purchase a bond, you lend money to the issuer, who promises regular interest payments and the return of the principal amount at maturity. Bonds are considered safer than stocks because they offer fixed income and the return of principal, but they generally provide lower returns. They are subject to risks such as interest rate risk, credit risk, and inflation risk.
+
+In short summary Bonds are like loans you give to companies or governments. You get paid interest over time, and your money is returned when the bond matures, making them safer than stocks.*
 
 **11. Mutual Funds** 
-Mutual funds pool money from many investors to invest in a diversified portfolio of stocks, bonds, and other securities managed by professional fund managers. They offer diversification, professional management, and liquidity. Investors buy shares in the mutual fund and share in the gains and losses of the underlying investments. Mutual funds can be actively managed, where managers make investment decisions, or passively managed, where they track a specific index.
 
-*Simple terms: Mutual funds are like a big pot of money from many people, managed by professionals who invest in various assets, spreading out risk.*
+  - Mutual funds pool money from many investors to invest in a diversified portfolio of stocks, bonds, and other securities managed by professional fund managers. They offer diversification, professional management, and liquidity. Investors buy shares in the mutual fund and share in the gains and losses of the underlying investments. Mutual funds can be actively managed, where managers make investment decisions, or passively managed, where they track a specific index.
+
+In Simple terms Mutual funds are like a big pot of money from many people, managed by professionals who invest in various assets, spreading out risk.*
 
 **12. Fund of Funds**  
-A fund of funds (FoF) is an investment strategy where a fund invests in a portfolio of other funds rather than directly in securities. This provides added diversification and professional management, as the FoF manager selects and manages a mix of mutual funds, hedge funds, or other types of funds. While FoFs offer broad diversification and the expertise of multiple managers, they can be more expensive due to additional management fees.
 
-*Simple terms: A fund of funds is a big fund that invests in other funds, spreading out risk even more by diversifying across many funds.*
+  - A fund of funds (FoF) is an investment strategy where a fund invests in a portfolio of other funds rather than directly in securities. This provides added diversification and professional management, as the FoF manager selects and manages a mix of mutual funds, hedge funds, or other types of funds. While FoFs offer broad diversification and the expertise of multiple managers, they can be more expensive due to additional management fees.
+
+In Simple terms "A fund of funds" is a big fund that invests in other funds, spreading out risk even more by diversifying across many funds.*
 
 **13. Exchange Traded Funds (ETFs)**  
 Exchange-Traded Funds (ETFs) are investment funds traded on stock exchanges, similar to stocks. They typically track an index, commodity, bonds, or a basket of assets. ETFs offer the diversification benefits of mutual funds with the flexibility of trading like a stock, including real-time pricing, intraday trading, and lower expense ratios. ETFs can be passively managed (index-tracking) or actively managed, providing an efficient way to gain exposure to specific markets or sectors.
